@@ -15,11 +15,17 @@ Measured on the analysis workstation (Windows, R 4.4.2):
 | scDblFinder | 1.20.2 |
 | SingleCellExperiment | 1.28.1 |
 | nichenetr | 2.2.1.1 (installed; **not used** for the reported ranking) |
+| CellChat | **1.5.0** (used for all reported cell-cell communication analyses) |
 
-CellChat version, library kits, sequencing platform, antibody/catalogue numbers
-and all animal-procedure details are reported in the manuscript Methods section;
-refer to that section as the authoritative description of the analysis as
-performed. Python scripts require Python 3 with pandas, matplotlib and Pillow.
+The CellChat version is confirmed by the analysis scripts themselves:
+`cellchat_lr.R` is headed "Workflow (CellChat 1.5.0)", and `cellchat_diff.R`
+notes that this version lacks `netAnalysis_signalingRole`, a 2.x-only function.
+The R version used for the analyses is 4.4.2 (the manuscript Methods section is
+authoritative for all kit, platform, antibody and animal-procedure details).
+
+Library kits, sequencing platform, antibody/catalogue numbers and all
+animal-procedure details are reported in the manuscript Methods section.
+Python scripts require Python 3 with pandas, matplotlib and Pillow.
 
 Sequencing: Illumina NovaSeq 6000, paired-end; 10x Genomics Chromium Next GEM
 Single Cell 3' Reagent Kits v3.1, target recovery 8,000 cells per sample.
