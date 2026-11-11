@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these derived tables, please cite the associated article and the GSA accession."
+title: "Sscrofa_data: analysis code and derived tables for an APRR herbal formulation in PRRSV-infected pig lung"
+authors:
+  - family-names: Peng
+    given-names: Jintao
+  - family-names: Xiao
+    given-names: Yuncai
+  - family-names: Zhang
+    given-names: Fangping
+date-released: 2026-11-11
+license: MIT
+repository-code: "https://github.com/Mrwzhou/Sscrofa_data"
+keywords:
+  - PRRSV
+  - single-cell RNA-seq
+  - pig lung
+  - herbal formulation
+  - PD-L1

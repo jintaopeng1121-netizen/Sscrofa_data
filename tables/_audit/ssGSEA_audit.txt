@@ -1,0 +1,7 @@
+rows: old=36 reproduced=36 gsva=36 ; merged=36
+cells=24896  gene_universe=130
+
+pathway                  repro_vs_old gsva_vs_old gsva_vs_repro
+
+复现表 vs 旧表 最大绝对差 = 0.00000000
+旧表数值范围 0.370 ~ 0.817 ; 复现表 0.370 ~ 0.817 ; GSVA表 -0.223 ~ 0.571

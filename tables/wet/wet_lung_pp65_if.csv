@@ -1,0 +1,13 @@
+﻿marker,group,animal_id,value
+p-p65_IF,Control,1,12.5
+p-p65_IF,Control,2,10.8
+p-p65_IF,Control,3,14.2
+p-p65_IF,Control,4,11.5
+p-p65_IF,PRRSV,1,65.6
+p-p65_IF,PRRSV,2,75.3
+p-p65_IF,PRRSV,3,58.4
+p-p65_IF,PRRSV,4,68.7
+p-p65_IF,APRR,1,35.2
+p-p65_IF,APRR,2,42.1
+p-p65_IF,APRR,3,38.6
+p-p65_IF,APRR,4,32.5

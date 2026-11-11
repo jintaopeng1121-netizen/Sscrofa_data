@@ -1,0 +1,27 @@
+== allgenes | genes=17336
+IFN_alpha_response       spearman=0.855 meandiff=0.349
+IFN_gamma_response       spearman=0.293 meandiff=0.359
+IL1_NFKB_signaling       spearman=0.290 meandiff=0.322
+TNF_signaling            spearman=0.869 meandiff=0.347
+Apoptosis                spearman=-0.352 meandiff=0.330
+Hypoxia                  spearman=-0.089 meandiff=0.410
+EMT                      spearman=0.267 meandiff=0.427
+T_cell_activation        spearman=0.211 meandiff=0.280
+Neutrophil_degranulation spearman=0.462 meandiff=0.304
+Macrophage_alternative   spearman=0.329 meandiff=0.409
+Complement               spearman=0.210 meandiff=0.387
+Antiviral                spearman=0.676 meandiff=0.294
+
+== hvg3000 | genes=3000
+IFN_alpha_response       spearman=0.885 meandiff=0.425
+IFN_gamma_response       spearman=0.163 meandiff=0.473
+IL1_NFKB_signaling       spearman=0.580 meandiff=0.386
+TNF_signaling            spearman=0.850 meandiff=0.483
+Apoptosis                spearman=-0.662 meandiff=0.419
+Hypoxia                  spearman=-0.127 meandiff=0.433
+EMT                      spearman=0.434 meandiff=0.547
+T_cell_activation        spearman=0.426 meandiff=0.356
+Neutrophil_degranulation spearman=0.535 meandiff=0.357
+Macrophage_alternative   spearman=0.492 meandiff=0.522
+Complement               spearman=0.324 meandiff=0.416
+Antiviral                spearman=0.652 meandiff=0.379

@@ -1,0 +1,16 @@
+run_time_min: 1.5
+cells: 24896
+pathways: 12
+matched rows old vs new: 36
+IFN_alpha_response       spearman=0.855 pearson=0.854 maxabsdiff=0.462 meanabsdiff=0.349
+IFN_gamma_response       spearman=0.293 pearson=0.421 maxabsdiff=0.453 meanabsdiff=0.359
+IL1_NFKB_signaling       spearman=0.290 pearson=0.335 maxabsdiff=0.491 meanabsdiff=0.322
+TNF_signaling            spearman=0.869 pearson=0.874 maxabsdiff=0.398 meanabsdiff=0.347
+Apoptosis                spearman=-0.352 pearson=-0.325 maxabsdiff=0.423 meanabsdiff=0.330
+Hypoxia                  spearman=-0.089 pearson=0.064 maxabsdiff=0.498 meanabsdiff=0.410
+EMT                      spearman=0.267 pearson=0.583 maxabsdiff=0.575 meanabsdiff=0.427
+T_cell_activation        spearman=0.211 pearson=0.399 maxabsdiff=0.466 meanabsdiff=0.280
+Neutrophil_degranulation spearman=0.462 pearson=0.485 maxabsdiff=0.430 meanabsdiff=0.304
+Macrophage_alternative   spearman=0.329 pearson=0.745 maxabsdiff=0.576 meanabsdiff=0.409
+Complement               spearman=0.210 pearson=0.314 maxabsdiff=0.653 meanabsdiff=0.387
+Antiviral                spearman=0.676 pearson=0.766 maxabsdiff=0.522 meanabsdiff=0.294

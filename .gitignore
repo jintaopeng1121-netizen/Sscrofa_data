@@ -1,0 +1,19 @@
+# Large / binary intermediates are intentionally not versioned
+*.rds
+*.RData
+*.h5ad
+*.loom
+*.pdf
+*.png
+*.jpg
+*.tif
+*.tiff
+*.svg
+*.ai
+*.eps
+*.docx
+.Rproj.user/
+.Rhistory
+__pycache__/
+Thumbs.db
+Desktop.ini
